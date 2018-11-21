@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - SVProgressHUD (2.2.5)
+  - SVWebViewController (1.0)
+  - UIImage-Resize (1.0.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - SVProgressHUD
+  - SVWebViewController
+  - UIImage-Resize
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - SVProgressHUD
+    - SVWebViewController
+    - UIImage-Resize
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SVWebViewController: c36dda7326e81fcae0abf5d02bf7bbf7e41be901
+  UIImage-Resize: fa776860f10e6900bbaf53a73e494bdceaaccc77
+
+PODFILE CHECKSUM: 022bfcd836f1c87d631de77b67fc763fe30a6685
+
+COCOAPODS: 1.5.3
